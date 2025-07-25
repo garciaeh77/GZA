@@ -108,7 +108,7 @@ lcdm_reference_path = "/path/to/LCDM.dat"  # Reference power spectrum (example p
 <h2>📈 Plots and Output</h2>
 <p>Each grid point generates:</p>
 <ul>
-  <li>Modified phase space distribution plot (f*q**2 vs q</li>
+  <li>Modified phase space distribution plot (f*q**2 vs q)</li>
   <li>Transfer function plot (T(k) with best-fit model)</li>
 </ul>
 
