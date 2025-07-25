@@ -1,5 +1,5 @@
 <!DOCTYPE html><html><head><meta charset='utf-8'></head><body>
-<h1>Neutrino Pipeline: Sterile Neutrino Cosmology Automation</h1>
+<h1>GZA Neutrino Pipeline: Sterile Neutrino Cosmology Automation</h1>
 <p>This repository provides a fully automated Python pipeline for scanning over sterile neutrino masses and mixing angles, running production and cosmological calculations, and analyzing their cosmological impact through power spectrum fitting.</p>
 <p>It integrates:</p>
 <ul>
